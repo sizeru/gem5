@@ -1,0 +1,3 @@
+[submodule "gem5-configs-395t"]
+	path = gem5-configs-395t
+	url = git@github.com:sizeru/gem5-configs-cs395t
